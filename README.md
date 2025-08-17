@@ -1,8 +1,8 @@
 # AIChat
 
 AIChat lets you interact with two AI personalities:  
-- **Vixby** – guesses your responses without using AI.  
-- **ChatGPT** – uses AI via OpenRouter API to give intelligent replies.
+- **Vixby** - guesses your responses without using AI.  
+- **ChatGPT** - uses AI via OpenRouter API to give intelligent replies.
 
 ---
 
