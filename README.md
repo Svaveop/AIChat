@@ -34,5 +34,5 @@ node gpt.js
 ## License
 This project is licensed under the MIT License.
 
-## More?
+## Videos & Photos
 https://portfolio.am.tumo.world/project/68781d73bde84ac72aa7253e
