@@ -30,8 +30,8 @@ async function process() {
 }
 
 async function getAIResponse(message) {
-    const apiKey = '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';
-    const response = await fetch("https://openrouter.ai/api/v1/chat/completions", {
+    const apiKey = 'API here';
+    const response = await fetch("Model name", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
