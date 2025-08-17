@@ -31,8 +31,9 @@ node gpt.js
   
 &nbsp;Open index.html in your browser. Make sure your API key and model are set in gpt.js before running.
 
+## Videos & Photos
+https://portfolio.am.tumo.world/project/68781d73bde84ac72aa7253e
+
 ## License
 This project is licensed under the MIT License.
 
-## Videos & Photos
-https://portfolio.am.tumo.world/project/68781d73bde84ac72aa7253e
